@@ -1,4 +1,4 @@
-![IMAGE!](https://miro.medium.com/max/720/1*IxoXPt0jwbCZBhA7rD-QlQ.webp)
+![IMAGE!](https://github.com/olusegun45/EKS-terra/blob/main/Architerctural%20diagram.jpeg?raw=true)
 
 Deploy an EKS Cluster with Terraform
 Before we start provisioning an EKS Cluster, there are a few prerequisites you need to have in mind and on hand.
