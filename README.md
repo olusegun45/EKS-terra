@@ -1,4 +1,4 @@
-![IMAGE!](JJTech-AWS-ProjectScript\Repository\EKS-terra\Architerctural diagram.jpeg)
+![IMAGE!](https://miro.medium.com/max/720/1*IxoXPt0jwbCZBhA7rD-QlQ.webp)
 
 Deploy an EKS Cluster with Terraform
 Before we start provisioning an EKS Cluster, there are a few prerequisites you need to have in mind and on hand.
