@@ -1,4 +1,4 @@
-![image!](./images/Architerctural diagram.jpeg)
+![IMAGE!](Architerctural diagram.jpeg)
 
 Deploy an EKS Cluster with Terraform
 Before we start provisioning an EKS Cluster, there are a few prerequisites you need to have in mind and on hand.
