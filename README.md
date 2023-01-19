@@ -1,4 +1,4 @@
-![image!](/Architerctural diagram.jpeg)
+![image!](./images/Architerctural diagram.jpeg)
 
 Deploy an EKS Cluster with Terraform
 Before we start provisioning an EKS Cluster, there are a few prerequisites you need to have in mind and on hand.
@@ -46,3 +46,4 @@ Step 5: Terraform execution to provision the resources
 At this stage, all the necessary files are in place and it’s time to create the cluster. To provision the cluster, cd into the root directory and run the following commands:
 
 terraform init → To download all the plugins, providers, and modules needed to provision the resources.
+
