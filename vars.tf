@@ -37,7 +37,7 @@ variable "instance_types" {
 variable "scaling_desired_size" {
   description = "Desired number of worker nodes"
   type        = number
-  default     = 3
+  default     = 2
 }
 
 variable "scaling_max_size" {
